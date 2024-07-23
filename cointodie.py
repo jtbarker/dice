@@ -1,6 +1,6 @@
 import random
 
-print("how many dice rolls")
+print("how many coin tosses?")
 
 N = int(input())
 def twocoinflipper():
